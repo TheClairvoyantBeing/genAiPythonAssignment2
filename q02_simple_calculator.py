@@ -17,6 +17,8 @@
 
 # --- Write your solution below this line ---
 
+print("\n\n\n=== Q02: Simple Calculator ===\n\n\n")
+
 try:
     # Asks user to enter 2 numbers
     num1 = float(input("Enter first number: "))

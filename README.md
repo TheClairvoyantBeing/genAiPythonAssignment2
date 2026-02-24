@@ -2,7 +2,7 @@
 
 ## Modules 1-6: Basics to Functions
 
-**Name:** [Your Name]
+**Name:** [Add My name here]
 **Questions Attempted:** [Q1-Q20]
 
 ### Assignment Instructions
