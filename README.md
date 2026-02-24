@@ -2,7 +2,7 @@
 
 ## Modules 1-6: Basics to Functions
 
-**Name:** [Add My name here]
+**Name:** [Evion Prem Cutinha]
 **Questions Attempted:** [Q1-Q20]
 
 ### Assignment Instructions
@@ -15,14 +15,21 @@
 
 ### Grading Rubric
 
-- Code Functionality (60%): Correct Output (30%), Edge Cases (15%), Efficiency (15%)
-- Code Quality (25%): Readability (10%), Comments (8%), Variable Names (7%)
-- Problem Understanding (15%): Requirements Met (10%), Completeness (5%)
+| Category              | Weight | Breakdown                                                |
+| --------------------- | ------ | -------------------------------------------------------- |
+| Code Functionality    | 60%    | Correct Output (30%), Edge Cases (15%), Efficiency (15%) |
+| Code Quality          | 25%    | Readability (10%), Comments (8%), Variable Names (7%)    |
+| Problem Understanding | 15%    | Requirements Met (10%), Completeness (5%)                |
+
+---
 
 ### Special Instructions
 
-[Add any special instructions here]
+- Questions were extracted from the PDF provided by the instructor.
 
 ### Challenges Faced
 
-[Add challenges faced here]
+- Searching for formulas.
+- Finding edge cases.
+- Finding the correct imports.
+- rewriting the same stuff again to make it more streamlining.
